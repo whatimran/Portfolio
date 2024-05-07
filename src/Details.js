@@ -14,6 +14,8 @@ import github from "./assets/is/github.png";
 import git from "./assets/is/git.png";
 import npm from "./assets/is/npm.png";
 import postman from "./assets/is/postman.png";
+import ps from "./assets/is/ps.png";
+import pr from "./assets/is/pr.png";
 import figma from "./assets/is/figma.png";
 // Project Images
 import projectImage1 from "./assets/projects/project1.png";
@@ -86,7 +88,7 @@ export const eduDetails = [
   },
 ];
 
-// Tech Stack and Tools
+// Tools
 export const isDetails = {
   html: html,
   css: css,
@@ -99,6 +101,8 @@ export const isDetails = {
   git: git,
   github: github,
   figma: figma,
+  ps: ps,
+  pr: pr,
 };
 
 // Project Details
