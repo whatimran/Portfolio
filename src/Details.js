@@ -1,4 +1,4 @@
-// Logo images
+// Logo Images
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
