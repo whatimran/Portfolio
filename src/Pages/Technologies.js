@@ -15,6 +15,8 @@ function Technologies() {
     npm,
     postman,
     figma,
+    ps,
+    pr,
   } = isDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -44,8 +46,8 @@ function Technologies() {
         <img src={git} title="Git" alt="Git" />
         <img src={github} title="Github" alt="Github" />
         <img src={figma} title="Figma" alt="Figma" />
-        <img src={npm} title="NPM" alt="NPM" />
-        <img src={postman} title="Postman" alt="Postman" />
+        <img src={ps} title="Photoshop" alt="Photoshop" />
+        <img src={pr} title="Premiere Pro" alt="Premiere Pro" />
       </section>
     </main>
   );
