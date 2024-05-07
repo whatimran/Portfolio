@@ -6,14 +6,12 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href="https://imranzia.com"
+          href="/"
           target="_blank"
           rel="noreferrer noopener"
         >
           Imran Zia
         </a>{" "}
-        with
-        <span className="text-gradient font-medium"> Love</span>
       </p>
     </footer>
   );
