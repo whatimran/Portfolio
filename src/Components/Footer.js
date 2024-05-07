@@ -10,11 +10,10 @@ function Footer() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Imran Shah
+          Imran Zia
         </a>{" "}
         with
-        <span className="text-gradient font-medium"> Love</span> &
-        <span className="text-gradient font-medium"> Coffee</span>
+        <span className="text-gradient font-medium"> Love</span>
       </p>
     </footer>
   );
