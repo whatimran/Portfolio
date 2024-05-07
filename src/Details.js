@@ -23,12 +23,6 @@ import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.png";
 import projectImage4 from "./assets/projects/project4.png";
 
-// Logos
-export const logos = {
-  logogradient: logogradient,
-  logo: logo,
-};
-
 // Personal Details
 export const personalDetails = {
   name: "Syed Imran Hussain Zia",
