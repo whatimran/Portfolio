@@ -5,6 +5,8 @@ function Technologies() {
   const {
     html,
     css,
+    php,
+    python,
     bootstrap,
     sass,
     vscode,
