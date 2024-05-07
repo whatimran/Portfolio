@@ -8,7 +8,6 @@ function Technologies() {
     php,
     python,
     bootstrap,
-    sass,
     vscode,
     git,
     github,
