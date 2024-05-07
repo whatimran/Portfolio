@@ -1,5 +1,5 @@
 import React from "react";
-import { techStackDetails } from "../Details";
+import { isDetails } from "../Details";
 
 function Technologies() {
   const {
@@ -17,7 +17,7 @@ function Technologies() {
     npm,
     postman,
     figma,
-  } = techStackDetails;
+  } = isDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
       <section>
