@@ -12,8 +12,6 @@ function Technologies() {
     vscode,
     git,
     github,
-    npm,
-    postman,
     figma,
     ps,
     pr,
