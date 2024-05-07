@@ -1,3 +1,6 @@
+// Logo images
+import logogradient from "./assets/logo.svg";
+import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/profile.jpg";
 // Images
@@ -22,6 +25,12 @@ import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.png";
 import projectImage4 from "./assets/projects/project4.png";
+
+// Logos
+export const logos = {
+  logogradient: logogradient,
+  logo: logo,
+};
 
 // Personal Details
 export const personalDetails = {
