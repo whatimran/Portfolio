@@ -77,7 +77,7 @@ function Header() {
             </a>
           </li>
           <li>
-            <a href={linkdein} target="_blank" rel="noreferrer noopener">
+            <a href={linkedin} target="_blank" rel="noreferrer noopener">
               <svg
                 className="dark:fill-light-heading fill-dark-heading"
                 width="30"
