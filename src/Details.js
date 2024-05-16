@@ -39,7 +39,7 @@ export const personalDetails = {
 
 // Social Media URLs
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/in/syed-imran-hussain-zia/",
+  linkedin: "https://www.linkedin.com/in/syed-imran-hussain-zia/",
   github: "https://www.github.com/whatimran",
   twitter: "https://twitter.com/whoimran",
   instagram: "https://www.instagram.com/dxb.imrann",
