@@ -32,9 +32,9 @@ export const logos = {
 // Personal Details
 export const personalDetails = {
   name: "Syed Imran Hussain Zia",
-  tagline: "I build things for web",
+  tagline: "All-in-One Creative: Web Developer, Designer, Digital Marketing Specialist, and Freelance Dynamo.",
   img: profile,
-  about: "Transforming ideas into digital success. Web developer, e-commerce whiz, digital marketer, freelancer.",
+  about: "From crafting stunning websites to mastering digital marketing, and perfecting photo and video edits, I'm your all-in-one creative freelancer.",
 };
 
 // Social Media URLs
