@@ -74,10 +74,10 @@ export const workDetails = [
 export const eduDetails = [
   {
     Position: "Bachelor of Science in Information Technology",
-    Company: "Virtual University",
-    Location: "Rawalpindi, Pakistan.",
+    Company: "Punjab University",
+    Location: "Lahore, Pakistan.",
     Type: "Full Time",
-    Duration: "2020 - 2024",
+    Duration: "2019 - 2023",
   },
     {
     Position: "Diploma in Information Technology",
