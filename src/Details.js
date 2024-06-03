@@ -32,7 +32,7 @@ export const logos = {
 // Personal Details
 export const personalDetails = {
   name: "Syed Imran Hussain Zia",
-  tagline: "All-in-One Creative: Web Developer, Designer, Digital Marketing Specialist, and Freelance Dynamo.",
+  tagline: "All-in-One Creative: Web Developer, Designer, Digital Marketing Specialist and Freelance Dynamo.",
   img: profile,
   about: "From crafting stunning websites to mastering digital marketing, and perfecting photo and video edits, I'm your all-in-one creative freelancer.",
 };
@@ -74,7 +74,7 @@ export const workDetails = [
 export const eduDetails = [
   {
     Position: "Bachelor of Science in Information Technology",
-    Company: "Punjab University",
+    Company: "University of the Punjab",
     Location: "Lahore, Pakistan.",
     Type: "Full Time",
     Duration: "2019 - 2023",
