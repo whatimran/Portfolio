@@ -26,7 +26,7 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
-        <img src={html} title="html" alt="HTML" />
+        <img src={html} title="HTML" alt="HTML" />
         <img src={css} title="CSS" alt="CSS" />
         <img src={php} title="PHP" alt="PHP" />
         <img src={python} title="Python" alt="Python" />
