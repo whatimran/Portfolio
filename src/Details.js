@@ -133,7 +133,7 @@ export const projectDetails = [
     image: projectImage4,
     description: "Index URLs to Google Search Engine with Google API Indexer.",
     is: "Python",
-	githubLink: "https://github.com/whatimran/GoogleIndexer",
+    previewLink: "https://github.com/whatimran/GoogleIndexer",
   },
 ];
 
