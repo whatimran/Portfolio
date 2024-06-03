@@ -63,7 +63,7 @@ function Header() {
         </ul>
         <ul className="flex justify-evenly items-center my-5 md:my-0 md:space-x-5 md:mr-5">
           <li>
-            <a href={twitter} target="_blank" rel="noreferrer noopener">
+            <a href={instagram} target="_blank" rel="noreferrer noopener">
               <svg
                 className="dark:fill-light-heading fill-dark-heading"
                 width="32"
