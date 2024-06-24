@@ -22,7 +22,7 @@ import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.png";
 import projectImage4 from "./assets/projects/project4.png";
-import projectImage6 from "./assets/projects/project6.webp";
+import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
 export const logos = {
