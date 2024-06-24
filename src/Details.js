@@ -22,7 +22,7 @@ import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.png";
 import projectImage4 from "./assets/projects/project4.png";
-import projectImage5 from "./assets/projects/project5.png";
+import projectImage6 from "./assets/projects/project6.png";
 
 // Logos
 export const logos = {
@@ -131,7 +131,7 @@ export const projectDetails = [
   },
   {
     title: "PC Builder Configurator WordPress Plugin",
-    image: projectImage5,
+    image: projectImage6,
     description: "A PC Builder Configurator WordPress Plugin for Woocommerce.",
     is: "PHP/JavaScript/CSS",
     previewLink: "https://github.com/whatimran/PC-Builder-Configurator-WordPress-Plugin",
