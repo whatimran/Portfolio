@@ -22,6 +22,7 @@ import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.png";
 import projectImage4 from "./assets/projects/project4.png";
+import projectImage4 from "./assets/projects/project5.png";
 
 // Logos
 export const logos = {
@@ -127,6 +128,13 @@ export const projectDetails = [
     description: "Al Taysir Travel and Tourism Agency is a Dubai based company with 16 years of customer satisfaction.",
     is: "PHP/CSS, Wordpress",
     previewLink: "https://altaysir.net",
+  },
+  {
+    title: "PC Builder Configurator WordPress Plugin",
+    image: projectImage5,
+    description: "A PC Builder Configurator WordPress Plugin for Woocommerce.",
+    is: "Python",
+    previewLink: "https://github.com/whatimran/PC-Builder-Configurator-WordPress-Plugin",
   },
   {
     title: "GoogleIndexer",
