@@ -133,7 +133,7 @@ export const projectDetails = [
     title: "PC Builder Configurator WordPress Plugin",
     image: projectImage5,
     description: "A PC Builder Configurator WordPress Plugin for Woocommerce.",
-    is: "Python",
+    is: "PHP/JavaScript/CSS",
     previewLink: "https://github.com/whatimran/PC-Builder-Configurator-WordPress-Plugin",
   },
   {
