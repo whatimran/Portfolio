@@ -9,6 +9,8 @@ import css from "./assets/is/css.png";
 import php from "./assets/is/php.png";
 import python from "./assets/is/python.png";
 import bootstrap from "./assets/is/bootstrap.png";
+import js from "./assets/is/js.png";
+import react from "./assets/is/react.png";
 import vscode from "./assets/is/vscode.png";
 import github from "./assets/is/github.png";
 import git from "./assets/is/git.png";
@@ -96,6 +98,8 @@ export const isDetails = {
   php: php,
   python: python,
   bootstrap: bootstrap,
+  js: js,
+  react: react,
   vscode: vscode,
   postman: postman,
   npm: npm,
