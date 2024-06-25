@@ -8,6 +8,8 @@ function Technologies() {
     php,
     python,
     bootstrap,
+    js,
+    react,
     vscode,
     git,
     github,
@@ -31,6 +33,8 @@ function Technologies() {
         <img src={php} title="PHP" alt="PHP" />
         <img src={python} title="Python" alt="Python" />
         <img src={bootstrap} title="Bootstrap" alt="Bootstrap" />
+        <img src={js} title="JavaScript" alt="JavaScript" />
+        <img src={react} title="React" alt="React" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
