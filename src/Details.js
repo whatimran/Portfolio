@@ -50,12 +50,19 @@ export const socialMediaUrl = {
 
 // Work Experience
 export const workDetails = [
+    {
+    Position: "E-Commerce Specialist",
+    Company: "Hamta Electronics Trading LLC",
+    Location: "Dubai, UAE.",
+    Type: "Full Time",
+    Duration: "July 2023 - Present",
+  },
   {
     Position: "Digital Marketing Specialist",
     Company: "Gamers Tycoon Technology LLC",
     Location: "Dubai, UAE.",
     Type: "Full Time",
-    Duration: "Sep 2023 - Present",
+    Duration: "Sep 2023 - June 2024",
   },
   {
     Position: "Administrative Assistant",
