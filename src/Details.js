@@ -25,6 +25,9 @@ import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.png";
 import projectImage4 from "./assets/projects/project4.png";
 import projectImage5 from "./assets/projects/project5.webp";
+import projectImage6 from "./assets/projects/project6.webp";
+import projectImage7 from "./assets/projects/project7.webp";
+import projectImage8 from "./assets/projects/project8.webp";
 
 // Logos
 export const logos = {
