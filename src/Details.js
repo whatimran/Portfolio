@@ -45,17 +45,17 @@ export const socialMediaUrl = {
   linkedin: "https://www.linkedin.com/in/syed-imran-hussain-zia/",
   github: "https://www.github.com/whatimran",
   twitter: "https://twitter.com/whoimran",
-  instagram: "https://www.instagram.com/dxb.imrann",
+  instagram: "https://www.instagram.com/imran.zip",
 };
 
 // Work Experience
 export const workDetails = [
     {
-    Position: "E-Commerce Specialist",
+    Position: "E-Commerce Manager",
     Company: "Hamta Electronics Trading LLC",
     Location: "Dubai, UAE.",
     Type: "Full Time",
-    Duration: "July 2023 - Present",
+    Duration: "July 2024 - Present",
   },
   {
     Position: "Digital Marketing Specialist",
