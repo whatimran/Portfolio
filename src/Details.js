@@ -140,6 +140,27 @@ export const projectDetails = [
     is: "PHP/CSS, Wordpress",
     previewLink: "https://altaysir.net",
   },
+    {
+    title: "DeeperLX",
+    image: projectImage6,
+    description: "DeeperLX is a dynamic DJ based in the UAE, captivating audiences with electrifying beats and unforgettable performances.",
+    is: "PHP/CSS, Wordpress",
+    previewLink: "https://deeperlx.com",
+  },
+    {
+    title: "Ibiza",
+    image: projectImage7,
+    description: "Ibiza is a vibrant website dedicated to celebrating the electrifying world of Ibiza music.",
+    is: "PHP/CSS, Wordpress",
+    previewLink: "https://ibiza.com",
+  },
+    {
+    title: "Hamta Electronics",
+    image: projectImage8,
+    description: "Hamta Electronics is a leading technology provider in the UAE, offering a wide range of laptops, computer accessories, and IT equipment.",
+    is: "PHP/CSS, Wordpress",
+    previewLink: "https://hamta.ae",
+  },
   {
     title: "PC Builder Configurator WordPress Plugin",
     image: projectImage5,
