@@ -17,7 +17,7 @@ function Projects() {
                   title={title}
                   image={image}
                   description={description}
-                  is={is}
+                  tech={tech}
                   previewLink={previewLink}
                 />
               )
